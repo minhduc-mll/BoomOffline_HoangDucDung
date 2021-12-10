@@ -31,7 +31,6 @@ Bài tập lớn 2 môn lập trình hướng đối tượng:
 Xây dựng và phát triển game bomberman bằng Java.
 
 Gồm có các thư mục:
-* bin
 * res -> Thư mục tài nguyên.
 * src -> Thư mục mã nguồn.
 
