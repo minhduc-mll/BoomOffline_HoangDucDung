@@ -24,7 +24,7 @@
 ## *Lấy project làm ơn ghi nguồn dùm 😄😄😄*
 
 
-![Boom](boom.png)
+![Boom](Boom.png)
 ---
 ### Mô tả
 Bài tập lớn 2 môn lập trình hướng đối tượng: 
