@@ -167,7 +167,7 @@ public abstract class Enemy extends Character {
 	public boolean collide(Entity e) {
 		if(e instanceof DirectionalExplosion) {
 			kill();
-			return true;
+			return false;
 		}
 		
 		if(e instanceof Player) {

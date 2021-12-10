@@ -50,7 +50,7 @@ public class Board implements IRender {
 		input_ = input;
 		screen_ = screen;
 
-		changeLevel(1); // start in level 1
+		changeLevel(4); // start in level 1
 	}
 
 	// --------------------------------------------------------------------------

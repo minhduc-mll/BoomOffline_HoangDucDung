@@ -1,10 +1,10 @@
 4 24 31
-           IPITVT KK  K K KK   #
+p          IPITVT KK  K K KK   #
            PPPTVT K K K K K K  #
      SSS   IPITVT K K KKK K K  #
     S   S     TVT K K K K K K  #
    S 4S  S    TVT KK  K K KK   #
-   S SPS S    TVT       p      #
+   S SPS S    TVT              #
    S  S  S    TVT J  J JJJ JJJ #
     S   S     TVT J  J J    J  #
 GSG  SSS   HSHTVT J  J JJJ  J  #
