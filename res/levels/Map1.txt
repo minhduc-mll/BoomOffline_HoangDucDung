@@ -1,0 +1,66 @@
+1 13 15
+LLLLLLLLLLLLLLL
+Lp            L
+L  ccc   ccc  L
+L ccccc ccccc L
+L cccccaccccc L
+L cccccdccccc L
+L  ccccecccc  L
+L   cccgccc   L
+L    ccccc    L
+L     ccc     L
+L      c      L
+L            xL
+LLLLLLLLLLLLLLL
+
+Meta data:
+(Number or Level) (Rows) (Columns)
+
+Info Tiles:
+# - Wall
+* - Brick
+x - Portal
+A - Barrier 1
+B - Barrier 2
+C - Box 1
+D - Box 2
+E - Box 3
+F - Box 4
+G - House 1
+H - House 2
+I - House 3
+J - Lego Box 1
+K - Lego Box 2
+L - Present
+M - Stone
+N - Torch
+O - Wood
+P - Tree 1
+Q - Tree 2
+R - Tree 3
+S - Tree 4
+T - Street 1
+U - Street 2
+V - Street 3
+W - Street 4
+X - Street 5
+
+
+Characters:
+p - Player
+1 - Baby
+2 - Mummy
+3 - Pirate
+4 - Octopus
+5 - Ghost
+
+Items:
+b - Item Booms with brick
+f - Item Boom Length with brick
+s - Item Speed with brick
+n - Item New Boom with brick
+c - Item coin
+a - Item Booms
+d - Item Boom Length
+e - Item Speed
+g - Item New Boom

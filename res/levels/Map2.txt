@@ -1,0 +1,14 @@
+2 13 15
+ABABABABABABABA
+Bp J  I K  H  B
+A  J  I K  H  A
+BJJJ  I K  H  B
+A   1 I K  H  A
+BIIIIII K  H 4B
+A      xK  H  A
+B       K  H  B
+AKKKKKKKK  H  A
+B         2H  B
+AGGGGGGGGGGG  A
+B     3      5B
+ABABABABABABABA

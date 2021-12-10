@@ -1,0 +1,33 @@
+1 13 31
+###############################
+#p  *     3       *   *      *#
+# s # # #*# # #*# # # # # # # #
+#    *     *   2    *    *    #
+# b # # # # #*# # # # # # # #*#
+# n  *     *     *       *    #
+# f #*# # # # # # #*#*# # # # #
+#   *        *      x *       #
+# c # # #*# # # # # # #*# #*# #
+#                *            #
+# fff #*# #*# # # #*# # # # # #
+#                             #
+###############################
+
+Meta data:
+(Number or Level) (Rows) (Columns)
+
+Info Tiles:
+# - Wall
+* - Brick
+x - Portal
+
+Characters:
+p - Player
+1 - Balloom
+2 - Oneal
+3 - Doll
+5 - Condoria
+Items:
+b - Item Booms
+f - Item Flames
+s - Item Speed
